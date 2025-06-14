@@ -35,3 +35,16 @@ A real-time phishing URL detection tool built in Python with a futuristic cyberp
    ```bash
    git clone https://github.com/thiruselvamk05/cyber-phishing-detector
    cd cyber-phishing-detector
+
+
+
+## 📁 Folder structure
+  cyber-phishing-detector/
+├── phishing_gui_app.py         # Main GUI file
+├── matrix_background.py        # Matrix binary animation
+├── url_checker.py              # Detection logic
+├── utils.py                    # DNS/SSL/HTTP helper functions
+├── requirements.txt            # All dependencies
+├── screenshot.png              # Optional screenshot
+└── README.md                   # This file
+
