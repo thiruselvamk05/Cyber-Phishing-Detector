@@ -1,2 +1,3 @@
-# cyber-phishing-detector
-Real-time phishing URL detector with Matrix-style cyberpunk GUI
+# 💻 Cyber Matrix Phishing URL Detector
+
+A real-time phishing URL detection tool built with Python and a cyberpunk GUI...
